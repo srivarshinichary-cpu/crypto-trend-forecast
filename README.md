@@ -1,7 +1,3 @@
-For your GitHub README.md, you can mention these sections for your project “Forecasting Cryptocurrency Trends Using Deep Learning” based on your report.
-
-
----
 
 Forecasting Cryptocurrency Trends Using Deep Learning
 
