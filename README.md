@@ -154,6 +154,4 @@ Live dashboard deployment
 
 
 
-⭐ GitHub Repository
 
-If you like this project, give it a star ⭐
